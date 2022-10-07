@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293991113978",
+    "project_id": "minicrudaiep",
+    "storage_bucket": "minicrudaiep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293991113978:android:20d7af5da5d804cab91543",
+        "android_client_info": {
+          "package_name": "com.example.minicrudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293991113978-of795gq0g5mqr9d3d4q62oiqjoprglcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFituJurj9QtlWIXsciWlrWB-1uypwXZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293991113978-of795gq0g5mqr9d3d4q62oiqjoprglcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
